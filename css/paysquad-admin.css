@@ -1,0 +1,5 @@
+/* Hide all environment-specific fields initially */
+.paysquad-sandbox-field,
+.paysquad-production-field {
+
+}

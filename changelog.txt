@@ -1,0 +1,15 @@
+*** Changelog ***
+= 1.0.0 - 2024-07-01 =
+* Initial release.
+
+= 1.0.1 - 2024-10-11 =
+* Fix API URL.
+
+= 1.0.2 - 2024-10-24 =
+* Fix production environment check.
+
+= 1.0.3 - 2024-10-24 =
+* Fix version inside plugin PHP.
+
+= 1.0.4 - 2024-10-24 =
+* Try production environment check again.
